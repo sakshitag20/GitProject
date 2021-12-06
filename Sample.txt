@@ -1,2 +1,6 @@
 welcome to Sample file
 edited file....
+hi
+ hello
+ bye
+ 
